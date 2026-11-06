@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/multi_object_datasets/commit/a32c3bcbb4c75cb7243894d45fb6f226cd906f65",
       "git:hexsha": "a32c3bcbb4c75cb7243894d45fb6f226cd906f65",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
